@@ -11,6 +11,6 @@ I hope to extend my knowledge in coding here on **GitHub** and knowing other dev
 
 See you on *GitHub*! 
 
-- *Skills in*: **Javascript**, **HTML** & **C** + *a little of* **CSS**
-- *Currently learning*: **Java**
+- *Skills in*: **Javascript**, **HTML** & **C** + a little of **CSS**
+- *Currently learning*: **Web-Dev Beginners Microsoft Course**
 
