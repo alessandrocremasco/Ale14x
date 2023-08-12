@@ -11,5 +11,5 @@ I hope to extend my knowledge in coding here on **GitHub** and knowing other dev
 See you on *GitHub*! 
 
 - *Skills in*: **C**
-- *Currently learning*: **Web-Dev Beginners Microsoft Course** & **JavaScript**
+- *Currently learning*: **100DaysOfSwift**
 
