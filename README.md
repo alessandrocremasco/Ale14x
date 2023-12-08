@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there! I introduce my self. I'm Alessandro Luca Cremasco, I'm 20 y/o, I live in Italy and currently I'm studying Computer Science at the University of Verona.
+Hi there! I introduce my self. I'm Alessandro Luca Cremasco, I'm 21 y/o, I live in Italy and currently I'm studying Computer Science at the University of Verona.
 
 **My dream?** Develope my first app and become a developer. 
 
