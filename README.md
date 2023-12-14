@@ -10,6 +10,5 @@ I hope to extend my knowledge in coding here on **GitHub** and knowing other dev
 
 See you on *GitHub*! 
 
-- *Skills in*: **C**
-- *Currently learning*: **100DaysOfSwift**
+- *Skills in*: **C** & **JavaScript**
 
